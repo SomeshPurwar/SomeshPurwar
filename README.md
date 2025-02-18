@@ -13,7 +13,6 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SomeshPurwar&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SomeshPurwar&layout=compact&theme=dark)
 
 
