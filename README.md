@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **MERN stack projects**.
 - 🌱 I’m learning **C# and AI-based recommendations**.
 - 💬 Ask me about **React, MongoDB, and testing automation**.
-- 📫 Reach me at: `your-email@example.com`.
+- 📫 Reach me at: `somesh.purwar20@gmail.com`.
 
 ## 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -16,6 +16,4 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
+
